@@ -1,0 +1,18 @@
+{
+  "name": "priyanka",
+  "version": "1.0.0",
+  "description": "nodejs is a backend and server side runtime",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priyankakumari",
+  "type":"module",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
